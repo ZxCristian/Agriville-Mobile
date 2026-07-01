@@ -4,9 +4,9 @@ The official mobile application for **Agriville**. This app provides users with 
 
 ## 🚀 Tech Stack
 
-* **Framework:** [React Native](https://reactnative.dev/) / [Expo](https://expo.dev/) *(Update if using Flutter, Kotlin, Swift, etc.)*
+* **Framework:** [React Native](https://reactnative.dev/) / [Expo](https://expo.dev/) 
 * **Language:** JavaScript / TypeScript
-* **State Management:** Context API / Redux *(Adjust as needed)*
+* **State Management:** Context API / Redux 
 * **Navigation:** React Navigation
 
 ## ✨ Features
